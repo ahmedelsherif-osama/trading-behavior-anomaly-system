@@ -10,7 +10,7 @@ __pycache__/
 *.log
 
 # Jupyter
-**/.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
 *.ipynb
 
 # Data & Artifacts
