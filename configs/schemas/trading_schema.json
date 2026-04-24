@@ -1,0 +1,20 @@
+{
+    "type": "object",
+    "required": [
+        "Account",
+        "Timestamp",
+        "Size USD"
+    ],
+    "properties": {
+        "Account": {
+            "type": "string"
+        },
+        "Timestamp": {
+            "type": "number"
+        },
+        "Size USD": {
+            "type": "number"
+        }
+    },
+    "additionalProperties": true
+}

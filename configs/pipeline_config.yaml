@@ -1,0 +1,11 @@
+data:
+  raw_path: data/raw/historical_data.csv
+
+schema:
+  file: trading_schema.json
+
+features:
+  required_columns:
+    - Account
+    - Timestamp
+    - Size USD

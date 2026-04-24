@@ -19,3 +19,6 @@ src/data/raw/*.csv
 src/data/artifacts/*.joblib
 src/data/artifacts/*.pkl
 
+# artifacts
+data/artifacts/
+*.joblib
