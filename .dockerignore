@@ -1,0 +1,9 @@
+notebooks/
+*.ipynb
+venv/
+.git/
+__pycache__/
+*.pyc
+*.log
+*.ipynb_checkpoints
+data/

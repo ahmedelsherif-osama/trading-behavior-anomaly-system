@@ -1,0 +1,22 @@
+# Venv
+venv/
+.env/
+
+# Cache
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Data & Artifacts
+src/data/split/*.csv
+src/data/processed/*.csv
+src/data/raw/*.csv
+src/data/artifacts/*.joblib
+src/data/artifacts/*.pkl
+
