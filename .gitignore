@@ -10,8 +10,7 @@ __pycache__/
 *.log
 
 # Jupyter
-notebooks/.ipynb_checkpoints/
-*.ipynb
+**/.ipynb_checkpoints/
 
 # Data & Artifacts
 src/data/split/*.csv
